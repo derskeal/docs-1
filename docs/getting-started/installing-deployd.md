@@ -14,7 +14,7 @@
 
 You can install Deployd as a **node module** using `npm`. Just run the following:
 
-    npm install deployd -g
+    npm install deployd deployd-cli -g
     
 The `dpd` program should be available. Try `dpd -V`.
 
